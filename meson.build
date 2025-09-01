@@ -34,7 +34,7 @@
 project(
   'libXfixes',
   'c',
-  version: '6.0.1',
+  version: '6.0.2',
   license: 'HPND-sell-variant AND MIT',
   license_files: 'COPYING',
   meson_version: '>= 1.1.0',
